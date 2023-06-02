@@ -1,10 +1,14 @@
 # Security Lab4 网络协议安全
 
-> Author: Kr.Cen 康瑞 岑
+> Author: Kr.Cen, 康瑞 岑
 > 
 > Student ID: 521021910151
 > 
-> Date: 2023.6.01
+> Email Address: kr2256671169@sjtu.edu.cn
+> 
+> Date: 2023.6.02
+> 
+> Hint: This is a report of <Computer System Security> lab4.
 
 ## Principle
 
