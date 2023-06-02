@@ -1,10 +1,10 @@
 # Security Lab4 网络协议安全
 
 > Author: Kr.Cen 康瑞 岑
+> 
 > Student ID: 521021910151
+> 
 > Date: 2023.6.01
-
-[toc]
 
 ## Principle
 
