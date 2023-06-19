@@ -132,7 +132,7 @@ config = {
 
 能够正常收到邮件，且发件人显示为一个伪造的合法地址canvas.sjtu.edu.cn。
 
-<img src="./2.jpeg" alt="2" style="zoom:50%;" />
+<img src="report/2.jpeg" alt="2" style="zoom:50%;" />
 
 此外，还惊奇地发现，即使不给定正确的Sender password（甚至为空），邮件依然可以正确地发送
 
@@ -223,11 +223,11 @@ Finished.
 >
 > 说明163邮箱会检查From字段是否存在mutiple value
 
-<img src="./1.jpg" alt="1" style="zoom:50%;" />
+<img src="report/1.jpg" alt="1" style="zoom:50%;" />
 
 使用mode client_a3：脚本正常运行，且发送方不会拦截，接收方也不会被放入垃圾邮箱，接收如下：
 
-![](./163_1.jpg)
+![](report/163_1.jpg)
 
 发送成功，但同样会显示代发方。
 
@@ -259,7 +259,7 @@ config:
 
 最终邮件界面为
 
-<img src="./163_3.jpg" style="zoom:50%;" />
+<img src="report/163_3.jpg" style="zoom:50%;" />
 
 My insights：163邮箱会对mutiple from field进行检测，但不会对mutiple sender field进行检测，并且显示结果只会显示一个sender。
 
