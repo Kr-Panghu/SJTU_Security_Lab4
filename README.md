@@ -104,7 +104,7 @@ config = {
 }
 ~~~
 
-![111](./sjtu_to_sjtu.jpg)
+![111](report/sjtu_to_sjtu.jpg)
 
 分别使用client_a1/client_a2/client_a3发送邮件，都成功地发送，但只有client_a3真正实现伪装（尽管此时还会显示代发人）。
 
